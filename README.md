@@ -1,2 +1,2 @@
 # DNA-Classification
-Exploring the world of Bioinformatics using various machine learning algorithms
+Classifying E. Coli Bacteria DNA nucleotide sequences based on its Promoter class
